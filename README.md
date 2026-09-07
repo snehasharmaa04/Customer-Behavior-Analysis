@@ -1,6 +1,5 @@
 # Customer-Behavior-Analysis
 End-to-end Customer Behavior Analysis using Python (Pandas) for data cleaning, PostgreSQL for relational storage &amp; querying, and Power BI for interactive dashboarding.
-An end-to-end data analytics project exploring customer purchase patterns, demographics, product categories, and subscription statuses. Built using *Python (Pandas)* for data preprocessing, *PostgreSQL* for relational data storage & querying, and *Power BI* for interactive visual reporting.
 
 **Tech Stack**
 * Data Processing & Cleaning: Python (Pandas)
